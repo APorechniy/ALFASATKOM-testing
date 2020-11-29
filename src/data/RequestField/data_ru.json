@@ -1,0 +1,8 @@
+{
+    "inputPlaceholder": "Введите URL...",
+    "typePlaceholder": "Выберите тип...",
+    "firstOption": "Данные о хостинге",
+    "secondOption": "Список технологий",
+    "firstErr": "Поле не заполнено",
+    "secondErr": "Опция не выбрана"
+}

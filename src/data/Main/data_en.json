@@ -1,0 +1,5 @@
+{
+    "title": "Site's information",
+    "description": "This service was created to get information about the Internet resource you are interested in. You can find out the stack of technologies that were used to develop the resource, data on the availability of CMS, as well as hosting data for the resource you are interested in. The service is based on the 'Who Hosts This'API.",
+    "button": "Get info"
+}

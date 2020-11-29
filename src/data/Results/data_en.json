@@ -1,0 +1,5 @@
+{
+    "limit_code": "Request limit exceeded. Reload the page.",
+    "not_found_code": "Information not found for this URL.",
+    "invalid_url_code": "You entered invalid URL"
+}

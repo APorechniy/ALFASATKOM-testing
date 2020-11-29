@@ -1,0 +1,8 @@
+{
+    "inputPlaceholder": "Enter URL...",
+    "typePlaceholder": "Select type...",
+    "firstOption": "Hosting's data",
+    "secondOption": "Technology stack",
+    "firstErr": "Empty field",
+    "secondErr": "Option didn't selected"
+}
